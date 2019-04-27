@@ -31,5 +31,4 @@ Score = 1 – error
 2nd Rank - 0.9558244
 
 Featured in Analytics India Magazine:
-
 https://www.analyticsindiamag.com/see-how-a-sr-analyst-a-tech-lead-business-analyst-solved-machinehacks-predict-the-flight-ticket-price-hackathon/
